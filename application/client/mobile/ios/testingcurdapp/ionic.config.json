@@ -1,0 +1,7 @@
+{
+  "name": "testingcurdapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
